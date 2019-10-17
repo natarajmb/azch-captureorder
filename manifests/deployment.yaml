@@ -50,4 +50,4 @@ spec:
                 name: mongodb
                 key: mongoPassword
           ports:
-          - containerPort: 8080
+          - containerPort: 80
